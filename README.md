@@ -17,3 +17,4 @@ A proposta da atividade é criar um site utilizando **HTML** e **Tailwind CSS** 
 - Um evento de palestras temáticas onde os participantes poderão aprender com figuras lendárias do Halloween, como Drácula, Frankenstein, a Bruxa Malvada e o Lobisomem.
 
 ## Para Acessar
+https://wurdigtato.github.io/Noite-das-Almas-Perdidas/src/index.html
