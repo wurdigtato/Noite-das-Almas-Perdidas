@@ -1,7 +1,8 @@
 # Evento de Halloween: Palestras Monstruosas
 
 ## Descrição
-Site para o evento de Halloween com palestras temáticas.
+Este site é um projeto desenvolvido como parte da atividade da cadeira de **Desenvolvimento de Interfaces Web**.
+A proposta da atividade é criar um site utilizando **HTML** e **Tailwind CSS** para um evento. 
 
 ## Estrutura do Projeto
 
@@ -10,8 +11,9 @@ Site para o evento de Halloween com palestras temáticas.
 
 ## Páginas
 
-- **index.html**: Página inicial do evento com informações sobre as palestras.
+- **index.html**: landing page do evento com informações sobre as palestras.
 
-## Como Executar
+## Evento Ficticio
+- Um evento de palestras temáticas onde os participantes poderão aprender com figuras lendárias do Halloween, como Drácula, Frankenstein, a Bruxa Malvada e o Lobisomem.
 
-Acesse:
+## Para Acessar
