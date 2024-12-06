@@ -27,4 +27,4 @@ O site está hospedado e pode ser acessado no link abaixo:
 
 ---
 
-Desenvolvido como parte do curso de Desenvolvimento de Interfaces Web.
+Desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas.
