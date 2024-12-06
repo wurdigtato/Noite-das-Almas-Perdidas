@@ -8,9 +8,8 @@ O **Palestras Monstruosas** é um evento de palestras temáticas onde os partici
 
 ## 🛠️ Tecnologias Utilizadas
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white): Estrutura principal do site.
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white): Framework CSS utilizado para estilização
-
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ## 📄 Páginas
 
 - **index.html:** Landing page do evento, contendo informações sobre as palestras, palestrantes e programação.
