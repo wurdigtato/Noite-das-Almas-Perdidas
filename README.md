@@ -6,10 +6,10 @@ Este site é um projeto desenvolvido como parte da atividade da cadeira de **Des
 
 O **Palestras Monstruosas** é um evento de palestras temáticas onde os participantes aprendem com figuras lendárias do Halloween, como Drácula, Frankenstein, a Bruxa Malvada e o Lobisomem. Com uma abordagem divertida e educativa, o evento busca unir conhecimento e entretenimento em uma noite assustadoramente inesquecível.
 
-## 🛠️ Estrutura do Projeto
+## 🛠️ Tecnologias Utilizadas
 
-- **HTML:** Estrutura principal do site.
-- **Tailwind CSS:** Framework CSS utilizado para estilização e responsividade.
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white): Estrutura principal do site.
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white): Framework CSS utilizado para estilização
 
 ## 📄 Páginas
 
