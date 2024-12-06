@@ -1,20 +1,31 @@
-# Evento de Halloween: Palestras Monstruosas
+# Evento de Halloween: Palestras Monstruosas 🎃
 
-## Descrição
-Este site é um projeto desenvolvido como parte da atividade da cadeira de **Desenvolvimento de Interfaces Web**.
-A proposta da atividade é criar um site utilizando **HTML** e **Tailwind CSS** para um evento. 
+Este site é um projeto desenvolvido como parte da atividade da cadeira de **Desenvolvimento de Interfaces Web**. O objetivo foi criar um site para um evento fictício utilizando **HTML** e **Tailwind CSS**.
 
-## Estrutura do Projeto
+## 🎯 Descrição
 
-- **HTML**: Estrutura principal do site.
-- **Tailwind CSS**: Framework CSS utilizado para estilização.
+O **Palestras Monstruosas** é um evento de palestras temáticas onde os participantes aprendem com figuras lendárias do Halloween, como Drácula, Frankenstein, a Bruxa Malvada e o Lobisomem. Com uma abordagem divertida e educativa, o evento busca unir conhecimento e entretenimento em uma noite assustadoramente inesquecível.
 
-## Páginas
+## 🛠️ Estrutura do Projeto
 
-- **index.html**: landing page do evento com informações sobre as palestras.
+- **HTML:** Estrutura principal do site.
+- **Tailwind CSS:** Framework CSS utilizado para estilização e responsividade.
 
-## Evento Ficticio
-- Um evento de palestras temáticas onde os participantes poderão aprender com figuras lendárias do Halloween, como Drácula, Frankenstein, a Bruxa Malvada e o Lobisomem.
+## 📄 Páginas
 
-## Para Acessar
-https://wurdigtato.github.io/Noite-das-Almas-Perdidas/src/index.html
+- **index.html:** Landing page do evento, contendo informações sobre as palestras, palestrantes e programação.
+
+## 🌌 Evento Fictício
+
+- Um ambiente único, onde Halloween e aprendizado se encontram.
+- Palestras temáticas ministradas por personalidades icônicas do universo das histórias de terror.
+
+## 🌐 Para Acessar
+
+O site está hospedado e pode ser acessado no link abaixo:
+
+[🔗 Evento de Halloween: Palestras Monstruosas](https://wurdigtato.github.io/Noite-das-Almas-Perdidas/src/index.html)
+
+---
+
+Desenvolvido como parte do curso de Desenvolvimento de Interfaces Web.
